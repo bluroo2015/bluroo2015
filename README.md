@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @bluroo2015
-- 👀 I’m interested in Ethereum.
-- 🌱 I’m currently learning Ethereum.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p>Hello 大家好</p>
+<p>我是bluroo </p>
+<p>很高兴你来到这里, 我是一名区块链爱好者，如果你也喜欢我的文字，可以添加我的微信号：pythonix </p>
 
-<!---
-bluroo2015/bluroo2015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
+
 --->
